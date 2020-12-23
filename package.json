@@ -1,0 +1,16 @@
+{
+    "name": "crawldata_demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.6",
+        "puppeteer": "^5.5.0"
+    }
+}
