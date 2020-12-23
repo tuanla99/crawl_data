@@ -1,5 +1,5 @@
 const fs = require('fs');
-const num =3; //
+const num =100; //
 const scraperObject = {
 
     url: 'https://vnexpress.net',
